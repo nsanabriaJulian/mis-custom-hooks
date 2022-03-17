@@ -5,4 +5,4 @@ Ejemplo:
     const url = 'endpoint de una api';
     const { data: null, loading: true, error: null } = useFetch(url);
 ```
-    regresa un state (object).
+    regresa un state {} (object).
